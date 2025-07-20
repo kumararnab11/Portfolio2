@@ -1,5 +1,5 @@
 import codedex from "../assets/codedex.jpeg"
-import GPA_Achiever from "../assets/GPA_Achiever.jpeg";
+import GPA_Achiever from "../assets/GPA_ACHIEVER.jpeg";
 import dual_deal from "../assets/dual_deal.jpeg";
 
 export const PROJECTS = [
